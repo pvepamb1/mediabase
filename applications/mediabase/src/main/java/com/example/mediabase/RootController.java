@@ -2,7 +2,6 @@ package com.example.mediabase;
 
 import com.example.mediabase.movies.MoviesBean;
 import com.example.mediabase.movies.MoviesInitialList;
-import com.example.mediabase.podcasts.Podcast;
 import com.example.mediabase.podcasts.PodcastInitialList;
 import com.example.mediabase.podcasts.PodcastRepository;
 import org.springframework.stereotype.Controller;
