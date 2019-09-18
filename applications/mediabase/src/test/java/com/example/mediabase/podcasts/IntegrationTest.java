@@ -1,4 +1,4 @@
-package com.example.mediabase;
+package com.example.mediabase.podcasts;
 
 import org.junit.Test;
 import org.springframework.web.client.RestTemplate;

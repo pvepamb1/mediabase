@@ -14,9 +14,7 @@ dependencies {
     compile('org.apache.geronimo.specs:geronimo-osgi-locator:1.1')
     compile('org.apache.geronimo.components:geronimo-jaspi:2.0.0')
     compile('org.springframework.boot:spring-boot-starter-tomcat')
-    compile('mysql:mysql-connector-java:5.1.46')
     testCompile('org.springframework.boot:spring-boot-starter-test')
-    compile project(":components:movies")
-    compile project(":components:podcasts")
     compile('taglibs:standard:1.1.2')
+    compile project(':components:ui')
 }
