@@ -1,4 +1,4 @@
-package com.example.mediabase.podcasts;
+package com.example.mediabase.movies;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

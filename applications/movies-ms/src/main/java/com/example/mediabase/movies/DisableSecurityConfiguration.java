@@ -1,4 +1,4 @@
-package com.example.mediabase.podcasts;
+package com.example.mediabase.movies;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.Configuration;

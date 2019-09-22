@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.mediabase.podcasts;
+package com.example.mediabase.movies;
 
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
